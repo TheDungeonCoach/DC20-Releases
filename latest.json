@@ -1,0 +1,12 @@
+{
+  "version": "0.3.7",
+  "race": "Alchemy",
+  "release": "Firethorn Resin",
+  "built_at": "2026-04-25T12:02:23Z",
+  "downloads": {
+    "android": "https://github.com/TheDungeonCoach/DC20-Releases/releases/download/v0.3.7/DC20-0.3.7-Firethorn-Resin.apk",
+    "macos": "https://github.com/TheDungeonCoach/DC20-Releases/releases/download/v0.3.7/DC20-0.3.7-Firethorn-Resin.dmg",
+    "windows": "https://github.com/TheDungeonCoach/DC20-Releases/releases/download/v0.3.7/DC20-0.3.7-Firethorn-Resin.msi",
+    "linux": "https://github.com/TheDungeonCoach/DC20-Releases/releases/download/v0.3.7/DC20-0.3.7-Firethorn-Resin.deb"
+  }
+}
